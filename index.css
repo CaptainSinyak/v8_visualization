@@ -1,1 +1,26 @@
 /* styles */
+body {
+    font-size: large;
+}
+hr {
+    margin: 50px auto;
+}
+header {
+    text-align: center;;
+}
+.container {
+    border: 2px solid;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;    
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.description {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
